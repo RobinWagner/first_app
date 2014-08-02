@@ -15,7 +15,7 @@
 /log/*.log
 /tmp
 
-# Ignore other unneeded files.
+# Ignore other unneeded files (based on railstutorial.org).
 dabase.yml
 doc/
 *.swp
