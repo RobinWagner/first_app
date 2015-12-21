@@ -1,3 +1,3 @@
 # Ruby on Rails Tutorial: first application
 
-This a first application.
+This the first application.
